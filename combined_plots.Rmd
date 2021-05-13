@@ -19,3 +19,11 @@ density_toothGrowth()
 source("R/custom_boxplot.R")
 iris_boxplot()
 ```
+
+# Scatterplot of iris data
+
+```{r}
+source("R/custom_scatterplot.R")
+custom_scatter("Sepal.Width", "Sepal.Length")
+```
+
