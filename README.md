@@ -7,4 +7,4 @@ This is the density plot
 This is the boxplot  
 ![boxplot](images/boxplot.png)
 
-test update
+There is also now a scatterplot.
